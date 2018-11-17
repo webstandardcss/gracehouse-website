@@ -1,0 +1,35 @@
+body {
+    background-color: #040601;
+    background-image: url("images/bg-hd.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    min-height: 4000px;
+}
+.bar-top {
+    background-color: #fddcc0;
+}
+.bar-menu {
+    background-color: #fff;
+}
+.svg-primary {
+    fill: #5755d9;
+}
+.logo-header {
+    padding-top: 24px;
+    width: 180px;
+    padding-bottom: 24px;
+}
+.header-donate {
+    padding: 6px;
+    color: #E08C20;
+    border: 2px solid #E08C20;
+    border-radius: .3rem;
+    font-weight: 600;
+    font-size: .9rem;
+    display: inline-block;
+    float: right;
+    margin-top: -124px;
+    position: relative;
+    transition: all .3s ease;
+    text-transform: uppercase;
+}
