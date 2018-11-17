@@ -11,6 +11,21 @@ body {
 }
 .bar-menu {
     background-color: #fff;
+    white-space: nowrap;
+}
+.bar-banner {
+    height: 320px;
+    width: 100%;
+}
+.bar-banner-inner {
+    background-color: rgba(0,0,96,0.3);
+    border: solid 1px rgba(255,255,255,0.4);
+    border-left: none;
+    border-right: none;
+    color: white;
+    padding: 24px;
+    text-align: center;
+    width: 100%;
 }
 .svg-primary {
     fill: #5755d9;
