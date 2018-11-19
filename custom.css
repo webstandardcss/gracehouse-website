@@ -13,11 +13,11 @@ body {
     background-color: #fff;
     white-space: nowrap;
 }
-.bar-banner {
+.home-banner {
     height: 320px;
     width: 100%;
 }
-.bar-banner-inner {
+.home-banner-inner {
     background-color: rgba(0,0,96,0.3);
     border: solid 1px rgba(255,255,255,0.4);
     border-left: none;
@@ -27,7 +27,6 @@ body {
     text-align: center;
     width: 100%;
 }
-
 
 .grace-menu .btn, .btn-white-transparent {
     background-color: transparent;
