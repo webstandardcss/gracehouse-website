@@ -28,15 +28,11 @@ body {
     width: 100%;
 }
 
-.grace-menu {
-    height: 350px;
-    background-size: cover;
-    background-repeat: no-repeat;
-}
 
 .grace-menu .btn, .btn-white-transparent {
     background-color: transparent;
     color: white;
+    position: relative;
     border: solid 3px white;
     text-transform: uppercase;
     height: 40px;
@@ -45,15 +41,53 @@ body {
 }
 
 .grace-apply {
-    background-image: url(images/grace-apply.jpg);
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+        rgba(224,140,32,0.7), 
+        rgba(224,140,32,0.7)
+    ),
+    /* bottom, image */
+    url(images/grace-apply.jpg);
 }
 
 .grace-story {
-    background-image: url(images/grace-our-story.jpg)
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+        rgba(172,152,199,0.7), 
+        rgba(172,152,199,0.7)
+    ),
+    /* bottom, image */
+    url(images/grace-our-story.jpg)
 }
 
 .grace-volunteer {
-    background-image: url(images/grace-volunteers.jpg)
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+        rgba(194,216,70,0.7), 
+        rgba(194,216,70,0.7)
+    ),
+    /* bottom, image */
+    url(images/grace-volunteers.jpg);
+}
+
+.tile-overlay { 
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    /* linear-gradient(
+      rgba(255, 0, 0, 0.45), 
+      rgba(255, 0, 0, 0.45)
+    ), */
+    /* bottom, image */
+    /* url(image.jpg); */
+    transition: all 0.3s ease 0s;
+}
+.grace-menu {
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .svg-primary {
