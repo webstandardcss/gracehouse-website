@@ -27,6 +27,35 @@ body {
     text-align: center;
     width: 100%;
 }
+
+.grace-menu {
+    height: 350px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.grace-menu .btn, .btn-white-transparent {
+    background-color: transparent;
+    color: white;
+    border: solid 3px white;
+    text-transform: uppercase;
+    height: 40px;
+    width: 200px;
+    font-weight: 600;
+}
+
+.grace-apply {
+    background-image: url(images/grace-apply.jpg);
+}
+
+.grace-story {
+    background-image: url(images/grace-our-story.jpg)
+}
+
+.grace-volunteer {
+    background-image: url(images/grace-volunteers.jpg)
+}
+
 .svg-primary {
     fill: #5755d9;
 }
