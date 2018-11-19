@@ -42,7 +42,6 @@ body {
 
 .grace-apply {
     background: 
-    /* top, transparent red, faked with gradient */ 
     linear-gradient(
         rgba(224,140,32,0.7), 
         rgba(224,140,32,0.7)
@@ -51,9 +50,18 @@ body {
     url(images/grace-apply.jpg);
 }
 
+.grace-apply:hover {
+    background: 
+    linear-gradient(
+        rgba(224,140,32,0.4), 
+        rgba(224,140,32,0.4)
+    ),
+    /* bottom, image */
+    url(images/grace-apply.jpg);
+}
+
 .grace-story {
     background: 
-    /* top, transparent red, faked with gradient */ 
     linear-gradient(
         rgba(172,152,199,0.7), 
         rgba(172,152,199,0.7)
@@ -62,12 +70,31 @@ body {
     url(images/grace-our-story.jpg)
 }
 
+.grace-story:hover {
+    background: 
+    linear-gradient(
+        rgba(172,152,199,0.4), 
+        rgba(172,152,199,0.4)
+    ),
+    /* bottom, image */
+    url(images/grace-our-story.jpg)
+}
+
 .grace-volunteer {
     background: 
-    /* top, transparent red, faked with gradient */ 
     linear-gradient(
         rgba(194,216,70,0.7), 
         rgba(194,216,70,0.7)
+    ),
+    /* bottom, image */
+    url(images/grace-volunteers.jpg);
+}
+
+.grace-volunteer:hover {
+    background: 
+    linear-gradient(
+        rgba(194,216,70,0.5), 
+        rgba(194,216,70,0.5)
     ),
     /* bottom, image */
     url(images/grace-volunteers.jpg);
@@ -84,7 +111,8 @@ body {
     /* url(image.jpg); */
     transition: all 0.3s ease 0s;
 }
-.grace-menu {
+
+.grace-menu, .grace-menu:hover {
     height: 350px;
     background-size: cover;
     background-repeat: no-repeat;
