@@ -1,7 +1,7 @@
 (function(){
 
     var parallax = document.querySelectorAll("body"),
-        speed = 0.1;
+        speed = 0.4;
   
     window.onscroll = function(){
       [].slice.call(parallax).forEach(function(el,i){
@@ -13,5 +13,15 @@
   
       });
     };
-  
+
+    $(".grace-menu").click(function() {
+        window.location = $(this).find("a").attr("href"); 
+        return false;
+    });    
+
   })();
+
+  
+
+
+  
