@@ -3,7 +3,7 @@ body {
     background-image: url("images/bg-hd.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
-    min-height: 4000px;
+    min-height: 2500px;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -152,6 +152,14 @@ h1,h2,h3,h4,h5,h6,
     ),
     /* bottom, image */
     url(images/grace-volunteers.jpg);
+}
+
+.grace-blog .card, .no-border {
+    border: none;
+}
+
+.grace-blog .column {
+    transform: scale(0.95);
 }
 
 .tile-overlay { 
