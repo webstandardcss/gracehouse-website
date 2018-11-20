@@ -4,6 +4,14 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
     min-height: 4000px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,
+.h1,.h2,.h3,.h4,.h5,.h6,
+.color-primary {
+    color: #3575ac;
+
 }
 
 .page-width {
@@ -22,6 +30,7 @@ body {
 
 .bar-content {
     background-color: rgba(255,255,255,0.7);
+    padding: 24px;
 }
 
 .bar-footer {
