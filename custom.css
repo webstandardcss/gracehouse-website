@@ -14,6 +14,26 @@ h1,h2,h3,h4,h5,h6,
 
 }
 
+.p-12 {
+    padding: 12px;
+}
+
+.p-24 {
+    padding: 24px;
+}
+
+.p-36 {
+    padding: 36px;
+}
+
+.p-48 {
+    padding: 48px;
+}
+
+.p-64 {
+    padding: 64px;
+}
+
 .page-width {
     max-width: 1280px;
 }
@@ -135,14 +155,6 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .tile-overlay { 
-    background: 
-    /* top, transparent red, faked with gradient */ 
-    /* linear-gradient(
-      rgba(255, 0, 0, 0.45), 
-      rgba(255, 0, 0, 0.45)
-    ), */
-    /* bottom, image */
-    /* url(image.jpg); */
     transition: all 0.3s ease 0s;
 }
 
@@ -175,7 +187,6 @@ h1,h2,h3,h4,h5,h6,
 
 .header-donate {
     font-size: .9rem;
-    display: inline-block;
     float: right;
     margin-top: -124px;
     position: relative;
