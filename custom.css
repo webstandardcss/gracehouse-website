@@ -94,6 +94,11 @@ h1,h2,h3,h4,h5,h6,
     font-weight: 600;
 }
 
+.grace-menu .btn:hover, .btn-white-transparent:hover {
+    color: white;
+    border: solid 3px white;
+}
+
 .grace-apply {
     background: 
     linear-gradient(
@@ -184,13 +189,23 @@ h1,h2,h3,h4,h5,h6,
 
 .btn-alternate {
     padding: 6px;
-    color: #E08C20;
-    border: 2px solid #E08C20;
+    color: #e08c20;
+    border: 2px solid #e08c20;
     border-radius: .3rem;
     font-weight: 600;  
     transition: all .3s ease;
     text-transform: uppercase; 
     margin-right: 6px;
+}
+
+.btn-alternate:hover {
+    color: #3575ac;
+    border: 2px solid #3575ac;
+}
+
+.btn:hover {
+    color: #e08c20;
+    border: 2px solid #e08c20;
 }
 
 .header-donate {
