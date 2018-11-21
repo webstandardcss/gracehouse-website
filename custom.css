@@ -81,13 +81,21 @@ h1,h2,h3,h4,h5,h6,
     margin-bottom: 1.25rem;
 }
 
+
 .bar-menu-mobile .btn-link:hover,
 .bar-menu-mobile a:hover {
     color: #e08c20;
+}
+
+.bar-menu .btn-link:hover,
+.bar-menu a:hover,
+.bar-menu-mobile .btn-link:hover,
+.bar-menu-mobile a:hover {
     border: none;
 }
 
-.bar-menu-mobile .btn:focus {
+.bar-menu-mobile .btn:focus,
+.bar-menu .btn:focus {
     box-shadow: none;
 }
 
