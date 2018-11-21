@@ -43,6 +43,10 @@ h1,h2,h3,h4,h5,h6,
     padding: 12px;
 }
 
+.dropdown-icon {
+    width: 32px;
+}
+
 .bar-menu-mobile {
     background-color: #fddcc0;
     position: fixed;
@@ -53,6 +57,15 @@ h1,h2,h3,h4,h5,h6,
 
 .bar-menu-mobile a, .bar-menu-mobile li, .bar-menu-mobile .dropdown, .bar-menu-mobile .flex-centered  {
     display: block;
+}
+
+.bar-menu-mobile .dropdown > a {
+    display: inline-block;
+}
+
+
+.bar-menu-mobile .dropdown, .bar-menu-mobile .dropdown > a {
+    text-align: center;
 }
 
 .bar-menu {
