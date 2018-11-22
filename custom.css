@@ -88,9 +88,7 @@ h1,h2,h3,h4,h5,h6,
     color: #e08c20;
 }
 
-.bar-menu .btn-link:hover,
 .bar-menu a:hover,
-.bar-menu-mobile .btn-link:hover,
 .bar-menu-mobile a:hover {
     border: none;
 }
@@ -281,6 +279,10 @@ h1,h2,h3,h4,h5,h6,
 .btn:hover {
     color: #e08c20;
     border: 2px solid #e08c20;
+}
+
+.btn-link:hover {
+    border: none;
 }
 
 .header-donate {
