@@ -143,12 +143,16 @@ h1,h2,h3,h4,h5,h6,
     border: solid 1px rgba(255,255,255,0.4);
     border-left: none;
     border-right: none;
-    color: white;
     padding: 24px;
-    text-align: center;
     width: 100%;
 }
-
+.home-banner-inner h5 {
+    margin: 0 auto;
+    max-width: 400px;
+    line-height: 1.5em;
+    color: white;
+    text-align: center;
+}
 .grace-menu .btn, .btn-white-transparent {
     background-color: transparent;
     color: white;
@@ -237,7 +241,7 @@ h1,h2,h3,h4,h5,h6,
     transition: all 0.3s ease 0s;
 }
 
-.grace-menu, .grace-menu:hover {
+.grace-menu, .grace-menu:hover {    
     height: 30vw;
     background-size: cover;
     background-repeat: no-repeat;
