@@ -117,12 +117,6 @@ h1,h2,h3,h4,h5,h6,
     padding: 24px;
 }
 
-@media screen and (min-width: 825px) {
-    .bar-content .col-6 > img {
-        max-width: 50vw;
-    }
-}
-
 .bar-footer {
     position: fixed;
     bottom: 0;
@@ -138,7 +132,6 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .home-banner {
-    height: 320px;
     width: 100%;
 }
 
@@ -290,4 +283,13 @@ h1,h2,h3,h4,h5,h6,
     float: right;
     margin-top: -124px;
     position: relative;
+}
+
+@media screen and (min-width: 825px) {
+    .bar-content .col-6 > img {
+        max-width: 50vw;
+    }
+    .home-banner-inner h5 {
+        margin: 36px auto;
+    }
 }
