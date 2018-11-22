@@ -255,9 +255,7 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .logo-header {
-    padding-top: 24px;
-    width: 180px;
-    padding-bottom: 24px;
+    align-self: center;
 }
 
 .btn-alternate {
