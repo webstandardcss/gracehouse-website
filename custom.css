@@ -48,6 +48,7 @@ h1,h2,h3,h4,h5,h6,
     border: none;
     outline: none;
 }
+
 .dropdown-icon:hover {
     border: none;
     outline: none;
@@ -237,9 +238,10 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .grace-menu, .grace-menu:hover {
-    height: 350px;
+    height: 30vw;
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .svg-primary {
