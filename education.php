@@ -14,8 +14,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
             <h5>
-                &ldquo;&nbsp;&nbsp;&rdquo;
-                &mdash; 
+                &ldquo;&nbsp;For the protection of wisdom is like the protection of money, and the advantage of knowledge is that wisdom preserves the life of him who has it.&nbsp;&rdquo;
+                &mdash; Ecclesiastes 7:12
             </h5>
         </div>
     </div>
