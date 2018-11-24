@@ -31,7 +31,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 </h4>
                 <ul>
                   <li>For mobile or printing. <a href="/application.pdf" target="_blank">(pdf format)</a></li>
-                  <li>Fill out and print on your computer with Microsoft Office or Google Docs <a href="/application.docx" target="_blank">(Microsoft Word docx format)</a></li>
+                  <li>Fill out and print with MS Office or Google Docs. <a href="/application.docx" target="_blank">(Microsoft Word docx format)</a></li>
                 </ul>
 
                 <h4>
