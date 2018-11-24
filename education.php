@@ -24,9 +24,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <div class="columns">
             <div class="column col-8 col-md-12 col-mx-auto">
                 <h2 class="text-center">Education and Recovery Classes</h2>
-                <p>
+                <h4 class="text-center">
                 Grace House Education Classes:
-                </p>
+                </h4>
 
                 <dl class="links-education">
                 <dt>
