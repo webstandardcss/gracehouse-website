@@ -28,7 +28,7 @@
                     </ul>
                 </div>
                 <div class="dropdown menu-our-program">
-                    <a href="/about.php" class="btn btn-link">Our Program</a>
+                    <a href="/our-program.php" class="btn btn-link">Our Program</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="1">
                         <i class="icon icon-caret"></i>
                     </a>
