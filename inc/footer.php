@@ -17,7 +17,8 @@
             </div>
         </div>
     </div>
-    <script src="custom.js"></script>
+    <script src="/assets/js/index.js"></script>
+    <script src="/custom.js"></script>
 
     <?php require_once(dirname(__FILE__) . "/_mobilenav.php"); ?>
 
