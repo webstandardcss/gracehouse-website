@@ -9,7 +9,7 @@
                     <ul class="menu">
                         <li class="divider" data-content="ABOUT US"></li>
                         <li class="menu-item">
-                            <a href="/about.php">
+                            <a href="/our-story.php">
                             <i class="icon icon-link"></i> Our Story
                             </a>
                         </li>
