@@ -18,7 +18,7 @@
 
 body {
   background-color: #040601;
-  background-image: url("images/bg-hd.jpg");
+  background-image: url(/images/bg-hd.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
   min-height: 2500px;
@@ -191,7 +191,7 @@ h1,h2,h3,h4,h5,h6,
       rgba(224,140,32,0.7)
   ),
   /* bottom, image */
-  url(images/grace-apply.jpg);
+  url(/images/grace-apply.jpg);
 }
 
 .grace-apply:hover {
@@ -201,7 +201,7 @@ h1,h2,h3,h4,h5,h6,
       rgba(224,140,32,0.4)
   ),
   /* bottom, image */
-  url(images/grace-apply.jpg);
+  url(/images/grace-apply.jpg);
 }
 
 .grace-story {
@@ -211,7 +211,7 @@ h1,h2,h3,h4,h5,h6,
       rgba(172,152,199,0.7)
   ),
   /* bottom, image */
-  url(images/grace-our-story.jpg)
+  url(/images/grace-our-story.jpg)
 }
 
 .grace-story:hover {
@@ -221,7 +221,7 @@ h1,h2,h3,h4,h5,h6,
       rgba(172,152,199,0.4)
   ),
   /* bottom, image */
-  url(images/grace-our-story.jpg)
+  url(/images/grace-our-story.jpg)
 }
 
 .grace-volunteer {
@@ -231,7 +231,7 @@ h1,h2,h3,h4,h5,h6,
       rgba(194,216,70,0.7)
   ),
   /* bottom, image */
-  url(images/grace-volunteers.jpg);
+  url(/images/grace-volunteers.jpg);
 }
 
 .grace-volunteer:hover {
@@ -241,7 +241,7 @@ h1,h2,h3,h4,h5,h6,
       rgba(194,216,70,0.5)
   ),
   /* bottom, image */
-  url(images/grace-volunteers.jpg);
+  url(/images/grace-volunteers.jpg);
 }
 
 .grace-blog .card, .no-border {
