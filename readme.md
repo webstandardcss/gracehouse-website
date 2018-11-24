@@ -1,6 +1,6 @@
 
 # Grace House Website
-http://gracehouselongview.com/dev/
+http://gracehouselongview.com/index.php
 
 ## Page Speed
 
