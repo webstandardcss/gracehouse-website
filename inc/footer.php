@@ -7,12 +7,12 @@
 <div class="container bar-footer" role="contentinfo">
         <div class="columns">    
             <div class="column col-12 col-footer">
-                <a href="/our-story.php" class="footer-links">Our&nbsp;Story</a>
-                <a href="/team.php" class="footer-links">Our&nbsp;Team</a>
-                <a href="/mission.php" class="footer-links">Our&nbsp;Mission</a>
-                <a href="/volunteer.php" class="footer-links">Volunteering</a>
+                <a href="/our-story.php" class="footer-links"><span class="hide-sm">Our</span>&nbsp;Story</a>
+                <a href="/team.php" class="footer-links"><span class="hide-sm">Our</span>&nbsp;Team</a>
+                <a href="/mission.php" class="footer-links"><span class="hide-sm">Our</span>&nbsp;Mission</a>
+                <a href="/volunteer.php" class="footer-links">Volunteer<span class="hide-sm">ing</span></a>
                 <a href="/alumni.php" class="footer-links">Alumni</a>
-                <a href="/contact.php" class="footer-links">Contact&nbsp;Us</a>
+                <a href="/contact.php" class="footer-links">Contact&nbsp;<span class="hide-sm">Us</span></a>
                 <a href="/donate.php" class="footer-links">Donate</a>
             </div>
         </div>
