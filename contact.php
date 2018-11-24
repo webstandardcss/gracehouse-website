@@ -14,8 +14,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
             <h5>
-                &ldquo;&nbsp;&nbsp;&rdquo;
-                &mdash; 
+                &ldquo;&nbsp;The one who calls you is faithful, and he will do it.&nbsp;&rdquo;
+                &mdash; 1 Thessalonians 5:24
             </h5>
         </div>
     </div>

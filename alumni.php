@@ -14,8 +14,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
             <h5>
-                &ldquo;&nbsp;&nbsp;&rdquo;
-                &mdash; 
+                &ldquo;&nbsp;For I know the plans I have for you, declares the Lord, plans for welfare and not for evil, to give you a future and a hope.&nbsp;&rdquo;
+                &mdash; Jeremiah 29:11
             </h5>
         </div>
     </div>

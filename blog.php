@@ -14,8 +14,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
             <h5>
-                &ldquo;&nbsp;&nbsp;&rdquo;
-                &mdash; 
+                &ldquo;&nbsp;Now concerning spiritual gifts, brothers, I do not want you to be uninformed. &nbsp;&rdquo;
+                &mdash; 1 Corinthians 12:1
             </h5>
         </div>
     </div>
