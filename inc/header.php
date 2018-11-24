@@ -32,7 +32,7 @@
                 </header>
             </div>
             <div class="column col-12 flex-centered">
-                <img src="/images/logo-outline.png" class="logo-header" alt="Grace House">
+                <img src="/assets/images/logo-outline.png" class="logo-header" alt="Grace House">
                 <button class="btn btn-alternate header-donate d-none">Donate</button>
             </div>
         </div>

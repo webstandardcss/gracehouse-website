@@ -20,12 +20,12 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <button class="btn p-centered mb-2 text-bold s-rounded">LEARN MORE</button>
             </div>
             <div class="column col-6 hide-md flex-centered">
-                <img src="images/grace-about.jpg" alt="About Us" class="img-fit-contain">
+                <img src="/assets/images/grace-about.jpg" alt="About Us" class="img-fit-contain">
             </div>
         </div> 
         <!-- end columns -->
         <div class="flex-centered p-24">
-            <img src="images/video-placeholder.png" alt="Grace House Video">
+            <img src="/assets/images/video-placeholder.png" alt="Grace House Video">
         </div>
         <h3 class="text-center">Recent Updates</h3>
         <div class="columns mb-2">

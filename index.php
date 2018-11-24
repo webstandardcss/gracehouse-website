@@ -52,18 +52,18 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <button class="btn p-centered mb-2 text-bold s-rounded">LEARN MORE</button>
             </div>
             <div class="column col-6 hide-md flex-centered">
-                <img src="images/grace-about.jpg" alt="About Us" class="img-fit-contain">
+                <img src="/assets/images/grace-about.jpg" alt="About Us" class="img-fit-contain">
             </div>
         </div> 
         <!-- end columns -->
         <div class="flex-centered p-24">
-            <img src="images/video-placeholder.png" alt="Grace House Video">
+            <img src="/assets/images/video-placeholder.png" alt="Grace House Video">
         </div>
         <h3 class="text-center">Recent Blogs and Updates</h3>
         <div class="columns grace-blog mb-2">
             <div class="column col-4 col-md-12 bg-gray">
                 <div class="card">
-                    <div class="card-image"><img class="img-responsive img-fit-cover" src="images/blog-1-sm.jpg" alt="Ina"></div>
+                    <div class="card-image"><img class="img-responsive img-fit-cover" src="/assets/images/blog-1-sm.jpg" alt="Ina"></div>
                     <div class="card-header">
                         <button class="btn btn-primary float-right"><i class="icon icon-more-horiz"></i></button>
                         <div class="card-title h5">State Representative, Ina Minajarez, visits Grace House</div>
@@ -74,7 +74,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
             </div>
             <div class="column col-4 col-md-12 bg-gray">
                 <div class="card">
-                    <div class="card-image"><img class="img-responsive img-fit-cover" src="images/blog-2-maria.jpg" alt="Maria"></div>
+                    <div class="card-image"><img class="img-responsive img-fit-cover" src="/assets/images/blog-2-maria.jpg" alt="Maria"></div>
                     <div class="card-header">
                         <button class="btn btn-primary float-right"><i class="icon icon-more-horiz"></i></button>
                         <div class="card-title h5">Maria's Testimony</div>
@@ -85,7 +85,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
             </div>
             <div class="column col-4 col-md-12 bg-gray">
                 <div class="card">
-                    <div class="card-image"><img class="img-responsive img-fit-contain" src="images/blog-3-sm.jpg" alt="Panida"></div>
+                    <div class="card-image"><img class="img-responsive img-fit-contain" src="/assets/images/blog-3-sm.jpg" alt="Panida"></div>
                     <div class="card-header">
                         <button class="btn btn-primary float-right"><i class="icon icon-more-horiz"></i></button>
                         <div class="card-title h5">Panida's Testimony</div>

@@ -10,7 +10,7 @@ $siteGoogleURL = "https://plus.google.com/1111111";
 // $siteHost = (isset($_SERVER['HTTPS']) ? "https" : "http") . "://" . $_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI];
 $siteHost = "http://" . $_SERVER['HTTP_HOST'];
 $pageURL = $siteHost . $_SERVER['REQUEST_URI'];
-$pageImage = $siteHost . "/images/logo-outline.png";
+$pageImage = $siteHost . "/assets/images/logo-outline.png";
 $lastModified = @filemtime($pageURL);
 if($lastModified == NULL)
     // $lastModified = filemtime(utf8_decode($pageURL));$lastModified = filemtime(utf8_decode($pageURL));
