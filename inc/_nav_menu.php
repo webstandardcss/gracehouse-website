@@ -50,7 +50,7 @@
                     </ul>
                 </div>
                 <div class="dropdown menu-get-involved">
-                    <a href="/about.php" class="btn btn-link">Get Involved</a>
+                    <a href="/volunteer.php" class="btn btn-link">Get Involved</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="2">
                         <i class="icon icon-caret"></i>
                     </a>
