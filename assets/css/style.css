@@ -133,6 +133,7 @@ h1,h2,h3,h4,h5,h6,
 .bar-content {
   background-color: rgba(255,255,255,0.7);
   padding: 24px;
+  padding-bottom: 64px;
 }
 
 .bar-footer {
