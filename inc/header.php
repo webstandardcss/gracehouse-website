@@ -6,7 +6,7 @@
     <!-- <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-exp.min.css"> -->
     <link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre-icons.min.css">
     <link rel="stylesheet" href="/assets/css/style.css">    
-    <link rel="stylesheet" href="custom.css">
+    <link rel="stylesheet" href="/custom.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/zepto/1.2.0/zepto.min.js"></script>
     <?php if (in_array("forms", $extraCss)) { ?>
       <link rel="stylesheet" href="/assets/css/forms.css">
@@ -32,7 +32,7 @@
                 </header>
             </div>
             <div class="column col-12 flex-centered">
-                <img src="images/logo-outline.png" class="logo-header" alt="Grace House">
+                <img src="/images/logo-outline.png" class="logo-header" alt="Grace House">
                 <button class="btn btn-alternate header-donate d-none">Donate</button>
             </div>
         </div>

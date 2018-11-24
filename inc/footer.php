@@ -7,13 +7,13 @@
 <div class="container bar-footer" role="contentinfo">
         <div class="columns">    
             <div class="column col-12 col-footer">
-                <a href="story.php" class="footer-links">Our&nbsp;Story</a>
-                <a href="team.php" class="footer-links">Our&nbsp;Team</a>
-                <a href="mission.php" class="footer-links">Our&nbsp;Mission</a>
-                <a href="volunteer.php" class="footer-links">Volunteering</a>
-                <a href="alumni.php" class="footer-links">Alumni</a>
-                <a href="contact.php" class="footer-links">Contact&nbsp;Us</a>
-                <a href="donate.php" class="footer-links">Donate</a>
+                <a href="/story.php" class="footer-links">Our&nbsp;Story</a>
+                <a href="/team.php" class="footer-links">Our&nbsp;Team</a>
+                <a href="/mission.php" class="footer-links">Our&nbsp;Mission</a>
+                <a href="/volunteer.php" class="footer-links">Volunteering</a>
+                <a href="/alumni.php" class="footer-links">Alumni</a>
+                <a href="/contact.php" class="footer-links">Contact&nbsp;Us</a>
+                <a href="/donate.php" class="footer-links">Donate</a>
             </div>
         </div>
     </div>
