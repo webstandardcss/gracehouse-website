@@ -28,7 +28,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 </a>
             </div>
             <div class="column col-4 col-md-12 grace-menu grace-story flex-centered">
-                <a href="story.php" class="btn s-rounded" tabindex="7">
+                <a href="our-story.php" class="btn s-rounded" tabindex="7">
                     Our Story                
                     <i class="icon icon-message text-white ml-2"></i>
                 </a>
