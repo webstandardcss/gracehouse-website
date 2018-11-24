@@ -1,7 +1,7 @@
 <?php require_once dirname(__FILE__) . "/inc/config.php"; ?>
 
 <?php // Page data
-$pageTitle = "";
+$pageTitle = "Application for Residency";
 $pageTitleTag = $siteName . "  " . $pageTitle;
 $pageDescription = $siteName  . "  " . $pageTitle;
 $pageKeywords = $pageTitle . "  " . $siteKeywords;
