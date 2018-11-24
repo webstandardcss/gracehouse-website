@@ -20,10 +20,6 @@
     menuContainer.innerHTML = menuSelector.innerHTML;
 
   })();
-
-  
-
-
   
   $(function() {
 
@@ -31,8 +27,6 @@
     menuContent = $(".bar-menu");
     menuButtonShow = $(".navbar .btn-action");
     menuButtonHide = $(".bar-menu-mobile .icon-cross");
-
-
 
     menuMobile.hide();  
     menuButtonShow.click(function() {
