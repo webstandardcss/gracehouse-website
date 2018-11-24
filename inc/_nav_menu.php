@@ -1,6 +1,6 @@
 
                   <div class="dropdown menu-about cushycms-text">
-                    <a href="/about.php" class="btn btn-link">About Us</a>
+                    <a href="/our-story.php" class="btn btn-link">About Us</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="0">
                         <i class="icon icon-caret"></i>
                     </a>
