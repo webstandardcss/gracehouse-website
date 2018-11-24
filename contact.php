@@ -31,7 +31,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     </dt>
                     <dd>
                     <a href="mailto:Darrell@gracehouselongview.com">Darrell@gracehouselongview.com</a>
-                    <a href="tel:+19037464145">(903) 746-4145</a>
+                    <a href="tel:+19037464145">(903)&nbsp;746-4145</a>
                     </dd>
 
                     <dt>
@@ -39,7 +39,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     </dt>
                     <dd>
                     <a href="mailto:Cherie@gracehouselongview.com">Cherie@gracehouselongview.com</a>
-                    <a href="tel:+19037460632">(903) 746-0632</a>
+                    <a href="tel:+19037460632">(903)&nbsp;746-0632</a>
                     </dd>
 
 
