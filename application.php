@@ -30,8 +30,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                   APPLICATION SCREENING SURVEY
                 </h4>
                 <ul>
-                  <li>For mobile or printing. <a href="/application.pdf" target="_blank">(pdf format)</a></li>
-                  <li>Fill out and print with MS Office or Google Docs. <a href="/application.docx" target="_blank">(Microsoft Word docx format)</a></li>
+                  <li>For mobile or printing. <a href="/application.pdf" target="_blank">(pdf&nbsp;format)</a></li>
+                  <li>Fill out and print with MS Office or Google Docs. <a href="/application.docx" target="_blank">(Microsoft&nbsp;Word&nbsp;docx&nbsp;format)</a></li>
                 </ul>
 
                 <h4>
