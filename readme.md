@@ -36,7 +36,7 @@ https://www.cushycms.com/en/sites
 1. Click HTML
 
 #### TODO
-1. TODO Create PHP Pages - 
-2. TODO Create Sample Content Page Areas for Luis to use when making pages DONE
+1. TODO Create PHP Pages - DONE
+2. TODO Create Sample Content Page Areas for Luis to use when making pages - DONE
 
 All content, css, data, images, design are Copyright &copy; 2018 Grace House Longview, All Rights Reserved
