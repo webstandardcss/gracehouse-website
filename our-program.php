@@ -40,7 +40,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                             <li>Nutrition</li>
                         </ul>
                     </div>
-                    <div class="column col-6 col-sm-12">
+                    <div class="column col-4 col-sm-12">
                         <ul>
                             <li>Money Management</li>
                             <li>Job Skills</li>
@@ -49,10 +49,10 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                             <li>Volunteering</li>
                         </ul>
                     </div>
+                    <div class="column col-2 col-sm-12">
+                        <?php require(dirname(__FILE__) . "/inc/_nav_menu_program.php"); ?>
+                    </div>
                 </div>
-            </div>
-            <div class="column col-4 col-md-12">
-                <?php require(dirname(__FILE__) . "/inc/_nav_menu_program.php"); ?>
             </div>
         </div> 
         <!-- end columns -->
