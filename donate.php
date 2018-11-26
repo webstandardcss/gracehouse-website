@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-8 col-md-12">
                 <h2 class="text-center">DONATE</h2>
 
                 <p>
@@ -39,7 +39,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     <address>P.O. Box 761<br />
                     Longview, TX 75606</address>
                 </p>
-
+            </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_involved.php"); ?>
             </div>
         </div> 
         <!-- end columns -->
