@@ -40,6 +40,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     <li>Edie Lockhart</li>
                 </ul>
             </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_about.php"); ?>
+            </div>   
         </div> 
         <!-- end columns -->
     </div>
