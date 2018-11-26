@@ -1,86 +1,24 @@
 
-                  <div class="dropdown menu-about cushycms-text">
+                <div class="dropdown menu-about cushycms-text">
                     <a href="/our-story.php" class="btn btn-link">About Us</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="0">
                         <i class="icon icon-caret"></i>
                     </a>
-
-                    <!-- menu component -->
-                    <ul class="menu">
-                        <li class="divider" data-content="ABOUT US"></li>
-                        <li class="menu-item">
-                            <a href="/our-story.php">
-                            <i class="icon icon-link"></i> Our Story
-                            </a>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="menu-item">
-                            <a href="/mission.php">
-                            <i class="icon icon-link"></i> Our Mission
-                            </a>
-                        </li>                    
-                        <li class="divider"></li>
-                        <li class="menu-item">
-                            <a href="/team.php">
-                            <i class="icon icon-link"></i> Our Team
-                            </a>
-                        </li>                                        
-                    </ul>
+                    <?php require_once(dirname(__FILE__) . "/_nav_menu_about.php"); ?>
                 </div>
                 <div class="dropdown menu-our-program">
                     <a href="/our-program.php" class="btn btn-link">Our Program</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="1">
                         <i class="icon icon-caret"></i>
                     </a>
-
-                    <!-- menu component -->
-                    <ul class="menu">
-                        <li class="divider" data-content="OUR PROGRAM"></li>
-                        <li class="menu-item">
-                            <a href="/our-program.php">
-                            <i class="icon icon-link"></i> Our Program
-                            </a>
-                        </li>
-                        <li class="menu-item">
-                            <a href="/education.php">
-                            <i class="icon icon-link"></i> Education and Recovery Classes
-                            </a>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="menu-item">
-                            <a href="/visitors.php">
-                            <i class="icon icon-link"></i> Visitor Guidelines
-                            </a>
-                        </li>                    
-                    </ul>
+                    <?php require_once(dirname(__FILE__) . "/_nav_menu_program.php"); ?>
                 </div>
                 <div class="dropdown menu-get-involved">
                     <a href="/volunteer.php" class="btn btn-link">Get Involved</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="2">
                         <i class="icon icon-caret"></i>
                     </a>
-
-                    <!-- menu component -->
-                    <ul class="menu">
-                        <li class="divider" data-content="GET INVOLVED"></li>
-                        <li class="menu-item">
-                            <a href="/volunteer.php">
-                            <i class="icon icon-link"></i> Volunteer
-                            </a>
-                        </li>
-                        <li class="divider"></li>
-                        <li class="menu-item">
-                            <a href="/alumni.php">
-                            <i class="icon icon-link"></i> Alumni
-                            </a>
-                        </li>                    
-                        <li class="divider"></li>
-                        <li class="menu-item">
-                            <a href="/donate.php">
-                            <i class="icon icon-link"></i> Donate
-                            </a>
-                        </li>                                        
-                    </ul>
+                    <?php require_once(dirname(__FILE__) . "/_nav_menu_involved.php"); ?>
                 </div>
 
                 <a href="/application.php" class="btn btn-link" tabindex="3">
