@@ -4,21 +4,21 @@
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="0">
                         <i class="icon icon-caret"></i>
                     </a>
-                    <?php require_once(dirname(__FILE__) . "/_nav_menu_about.php"); ?>
+                    <?php require(dirname(__FILE__) . "/_nav_menu_about.php"); ?>
                 </div>
                 <div class="dropdown menu-our-program">
                     <a href="/our-program.php" class="btn btn-link">Our Program</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="1">
                         <i class="icon icon-caret"></i>
                     </a>
-                    <?php require_once(dirname(__FILE__) . "/_nav_menu_program.php"); ?>
+                    <?php require(dirname(__FILE__) . "/_nav_menu_program.php"); ?>
                 </div>
                 <div class="dropdown menu-get-involved">
                     <a href="/volunteer.php" class="btn btn-link">Get Involved</a>
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="2">
                         <i class="icon icon-caret"></i>
                     </a>
-                    <?php require_once(dirname(__FILE__) . "/_nav_menu_involved.php"); ?>
+                    <?php require(dirname(__FILE__) . "/_nav_menu_involved.php"); ?>
                 </div>
 
                 <a href="/application.php" class="btn btn-link" tabindex="3">
