@@ -258,7 +258,7 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .grace-menu, .grace-menu:hover {    
-  max-height: 300px;
+  height: 150px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -305,6 +305,9 @@ h1,h2,h3,h4,h5,h6,
 }
 
 @media screen and (min-width: 825px) {
+  .grace-menu, .grace-menu:hover {    
+    height: 300px;
+  }
   .bar-content .col-6 > img {
       max-width: 50vw;
   }
