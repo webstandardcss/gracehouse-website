@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-8 col-md-12">
                 <h2 class="text-center">Visitor Guidelines</h2>
 
                 <p>
@@ -46,6 +46,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <p>These are the acceptable items:   nail polish, chap-stick, lipstick, eye shadow, face powder, eye liners, socks, gloves, flip-flops, house shoes, refillable water bottles, combs, brushes, hair bands, hair ties or clips, pens, pencils, erasers, highlighters, journals, spiral notebooks, file folders, sticky notes, bookmarks, small jewelry, sweat shirts, T shirts, or other small gift items that have prior approval from a staff member.</p>
 
                 <p>Thank you so much for your cooperation with this matter.</p>
+            </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_program.php"); ?>
             </div>
         </div> 
         <!-- end columns -->
