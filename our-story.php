@@ -14,14 +14,14 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
             <h5>
-                &ldquo;&nbsp;She embraced the opportunity to enter Grace House of San Antonio and spent the full 9 months allowing God to show her a new way.  &nbsp;&rdquo;
+                &ldquo;&nbsp;She embraced the opportunity to enter Grace House of San Antonio and spent the full 9 months allowing God to show her a new way.&nbsp;&rdquo;
             </h5>
         </div>
     </div>
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-8 col-md-12">
                 <!-- our-story.php -->
                 <h2 class="text-center">
                     Ashley’s Story
@@ -44,8 +44,10 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <p>
                     We are blessed by this community as the owners of McDaniel’s Quality Body Works and are proud to say that a portion of our profits will go to help fund Grace House of Longview.
                 </p>
-
             </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_about.php"); ?>
+            </div>    
         </div> 
         <!-- end columns -->
     </div>
