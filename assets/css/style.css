@@ -309,7 +309,7 @@ h1,h2,h3,h4,h5,h6,
     height: 300px;
   }
   .bar-content .col-6 > img {
-      max-width: 50vw;
+      max-width: 32vw;
   }
   .home-banner-inner h5 {
       margin: 36px auto;
