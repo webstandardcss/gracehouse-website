@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-8 col-md-12">
                 <h2 class="text-center">VOLUNTEERING</h2>
                 <p>
                     Grace House is dependent upon volunteers in several roles:
@@ -46,6 +46,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <blockquote>Contact
                 <a href="mailto:Darrell@gracehouselongview.com">Darrell</a> to volunteer or call 
                 <a href="tel:+19037464145">(903)&nbsp;746-4145</a></blockquote>
+            </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_involved.php"); ?>
             </div>
         </div> 
         <!-- end columns -->
