@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-8 col-md-12">
                 <!-- mission.php -->
                 <h2 class="text-center">MISSION</h2>
 
@@ -30,6 +30,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     Our mission with Grace House of Longview is to provide our community with a faith based transition home for young women who have struggling with life after incarceration due to addictions and other poor living choices. Each woman will be interviewed to determine her desire to commit to 9 months of spiritual training to help lead her to a Christ centered and addiction free life.
                 </p>
             </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_about.php"); ?>
+            </div>    
         </div> 
         <!-- end columns -->
     </div>
