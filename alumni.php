@@ -22,12 +22,15 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-8 col-md-12">
                 <h2 class="text-center">Alumni</h2>
                 <p>
                     Facebook group for Grace House alumni coming soon.
                 </p>
-            </div>        
+            </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_involved.php"); ?>
+            </div>
         </div> 
         <!-- end columns -->
     </div>
