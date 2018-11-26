@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-10 col-md-12 col-mx-auto">
+            <div class="column col-10 col-md-12">
             <h2 class="text-center">OUR PROGRAM</h2>
 
             <p>
@@ -50,6 +50,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                         </ul>
                     </div>
                 </div>
+            </div>
+            <div class="column col-4 col-md-12">
+                <?php require(dirname(__FILE__) . "/inc/_nav_menu_program.php"); ?>
             </div>
         </div> 
         <!-- end columns -->
