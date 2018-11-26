@@ -1,3 +1,5 @@
 <FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
 Header set Cache-Control "max-age=604800, public"
 </FilesMatch>
+
+DirectoryIndex home.html index.php index.html index.htm default.htm default.html
