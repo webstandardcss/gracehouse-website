@@ -10,6 +10,11 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
 
+<style scoped>
+  .about-image img {
+    max-width: 600px;
+  }
+</style>
 
 <div class="container home-header">
         <div class="columns">
@@ -51,7 +56,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <p>Applicants must submit an application, and be interviewed and evaluated to determine their desire and potential for participating in the Grace House program. The ministry’s objective is to educate, encourage and care for selected women until they are prepared to re-enter everyday life in a productive and confident manner.</p>
                 <button class="btn p-centered mb-2 text-bold s-rounded">LEARN MORE</button>
             </div>
-            <div class="column col-6 hide-md flex-centered">
+            <div class="column col-6 hide-md flex-centered about-image">
                 <img src="/assets/images/grace-about.jpg" alt="About Us" class="img-fit-contain">
             </div>
         </div> 
