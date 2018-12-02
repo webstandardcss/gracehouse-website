@@ -14,8 +14,19 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
             <h5>
-                &ldquo;&nbsp;The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness; he will quiet you by his love; he will exult over you with loud singing.&nbsp;&rdquo;
-                &mdash; Zephaniah 3:17
+            &ldquo;&nbsp;and provide for those who 
+              grieve in Zion 
+              to bestow on them a crown of beauty 
+              instead of ashes,
+              the oil of joy 
+              instead of mourning,
+              and a garment of praise
+              instead of a spirit of despair.
+              They will be called oaks of righteousness,
+              a planting of the Lord
+              for the display of his splendor.
+            &nbsp;&rdquo;
+                &mdash; Isaiah 61:3
             </h5>
         </div>
     </div>
@@ -27,7 +38,16 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <h2 class="text-center">MISSION</h2>
 
                 <p>
-                    Our mission with Grace House of Longview is to provide our community with a faith based transition home for young women who have struggling with life after incarceration due to addictions and other poor living choices. Each woman will be interviewed to determine her desire to commit to 9 months of spiritual training to help lead her to a Christ centered and addiction free life.
+                     Our mission with Grace House of Longview
+                     is to provide this community with a faith
+                     based transition home for young women 
+                     who have struggled with incarceration due 
+                     to addictions and other poor living choices. 
+                     each woman will be interviewed to
+                     determine her desire to commit to 9 months  
+                     of spiritual training to help lead them to a 
+                     Christ centered and addiction free life.
+
                 </p>
             </div>
             <div class="column col-4 col-md-12">

@@ -14,6 +14,7 @@
                 <a href="/alumni.php" class="footer-links">Alumni</a>
                 <a href="/contact.php" class="footer-links">Contact&nbsp;<span class="hide-sm">Us</span></a>
                 <a href="/donate.php" class="footer-links">Donate</a>
+                <p>501(c)(3) EIN 81-3730201</p>
             </div>
         </div>
     </div>

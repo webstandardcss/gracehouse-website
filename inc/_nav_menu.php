@@ -1,26 +1,22 @@
 
                 <div class="dropdown menu-about cushycms-text">
-                    <a href="/our-story.php" class="btn btn-link">About Us</a>
-                    <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="0">
-                        <i class="icon icon-caret"></i>
-                    </a>
+                    <a href="/our-story.php" class="btn btn-link">Our Story</a>
                     <?php require(dirname(__FILE__) . "/_nav_menu_about.php"); ?>
                 </div>
                 <div class="dropdown menu-our-program">
-                    <a href="/our-program.php" class="btn btn-link">Our Program</a>
-                    <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="1">
-                        <i class="icon icon-caret"></i>
-                    </a>
+                    <a href="/mission.php" class="btn btn-link">Mission</a>
                     <?php require(dirname(__FILE__) . "/_nav_menu_program.php"); ?>
                 </div>
                 <div class="dropdown menu-get-involved">
-                    <a href="/volunteer.php" class="btn btn-link">Get Involved</a>
-                    <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="2">
-                        <i class="icon icon-caret"></i>
-                    </a>
+                    <a href="/our-program.php" class="btn btn-link">Our Program</a>
                     <?php require(dirname(__FILE__) . "/_nav_menu_involved.php"); ?>
                 </div>
-
+                <a href="/volunteer.php" class="btn btn-link" tabindex="3">
+                    Volunteer                
+                </a>
+                <a href="/donate.php" class="btn btn-link" tabindex="3">
+                    Donate                
+                </a>
                 <a href="/application.php" class="btn btn-link" tabindex="3">
                     Application for Residency                
                     <i class="icon icon-people text-gray ml-2"></i>
@@ -29,11 +25,6 @@
                     Contact Us                
                     <i class="icon icon-mail text-gray ml-2"></i>
                 </a>
-                <a href="/blog.php" class="btn btn-link" tabindex="4">
-                    Blog                
-                    <i class="icon icon-time text-gray ml-2"></i>
-                </a>
-
                 <div class="dropdown d-none menu-example">
                     <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="5">
                         dropdown menu <i class="icon icon-caret"></i>

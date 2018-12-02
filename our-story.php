@@ -28,21 +28,31 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 </h2>
 
                 <blockquote>
-                    After watching our daughter Ashley struggle for years with drug and alcohol addiction along with making poor life choices, we encouraged her to try Grace House of San Antonio.
+                   After watching our daughter Ashley struggle for years with drug and alcohol addiction along with making poor living choices, we encourage her to try Grace House of San Antonio. 
+
                 </blockquote>
 
-                <em>After a stint in jail, Ashley began to see God had better plans for her life.</em>
+                <em>After a stint in jail, Ashley finally began to see 
+                God had better plans for her life.</em>
 
                 <p>
-                    She embraced the opportunity to enter Grace House of San Antonio and spent the full 9 months allowing God to show her a new way.  
+                   She finally embraced the opportunity to enter Grace House 
+                of San Antonio and spent the full 9 months allowing God to 
+                show her a new way.  
+  
                 </p>    
 
                 <p>    
-                    After seeing the results that were brought on by this ministry and the burning desire Ashley has to help others, we felt Longview could use a faith based transition home here.
+               After seeing the results that were brought on by this 
+                    ministry and the burning desire Ashley has to help 
+                    others, we felt Longview could use a faith-based transition 
+                    home here. 
+
                 </p>
 
                 <p>
-                    We are blessed by this community as the owners of McDaniel’s Quality Body Works and are proud to say that a portion of our profits will go to help fund Grace House of Longview.
+                We are blessed by this community as the owners of McDaniel’s Quality Body Works and are proud to say that a portion of our profits will go to help fund Grace House of Longview.
+
                 </p>
             </div>
             <div class="column col-4 col-md-12">
