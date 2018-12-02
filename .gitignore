@@ -5,6 +5,8 @@
 /obf/
 error_log
 .ftpquota
+/blog/config
+/blog/cache
 
 ### Linux ###
 *~
