@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+<meta name="generator" content="HTMLy v2.7.4" />
+<link rel="icon" type="image/x-icon" href="http://gracehouselongview.com/blog/favicon.ico" />
+<link rel="sitemap" href="http://gracehouselongview.com/blog/sitemap.xml" />
+<link rel="alternate" type="application/rss+xml" title="Gracehouse Longview Feed" href="http://gracehouselongview.com/blog/feed/rss" />
+
+    <title>Gracehouse Longview - Serving and Giving</title>
+    <meta name="description" content="Gracehouse Ministries news and views."/>
+    <link rel="canonical" href="http://gracehouselongview.com/blog/" />
+     
+    <link rel="stylesheet" id="twentysixteen-fonts-css" href="https://fonts.googleapis.com/css?family=Merriweather%3A400%2C700%2C900%2C400italic%2C700italic%2C900italic%7CMontserrat%3A400%2C700%7CInconsolata%3A400&#038;subset=latin%2Clatin-ext" type="text/css" media="all" />
+    <link rel="stylesheet" id="genericons-css"  href="http://gracehouselongview.com/blog/themes/twentysixteen/genericons/genericons.css" type="text/css" media="all" />
+    <link rel="stylesheet" id="twentysixteen-style-css"  href="http://gracehouselongview.com/blog/themes/twentysixteen/css/style.css" type="text/css" media="all" />
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" id="twentysixteen-ie-css"  href="http://gracehouselongview.com/blog/themes/twentysixteen/css/ie.css" type="text/css" media="all" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" id="twentysixteen-ie8-css"  href="http://gracehouselongview.com/blog/themes/twentysixteen/css/ie8.css" type="text/css" media="all" />
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" id="twentysixteen-ie7-css"  href="http://gracehouselongview.com/blog/themes/twentysixteen/css/ie7.css" type="text/css" media="all" />
+    <![endif]-->
+</head>
+<body class="in-front">
+    <div id="page" class="site">
+        <div class="site-inner">
+        
+            <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+            <header id="masthead" class="site-header" role="banner">
+                <div class="site-header-main">
+                    <div class="site-branding">
+                        <h1 class="site-title"><a href="http://gracehouselongview.com/blog/" rel="home">Gracehouse Longview</a></h1>
+                        <p class="site-description">Serving and Giving</p>
+                    </div><!-- .site-branding -->
+
+                    <button id="menu-toggle" class="menu-toggle">Menu</button>
+
+                    <div id="site-header-menu" class="site-header-menu">
+                        <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+                            <div class="menu-main-container">
+                                <ul class="nav primary-menu"><li class="item first active"><a href="http://gracehouselongview.com/blog/">Home</a></li></ul>                            </div>
+                        </nav><!-- .main-navigation -->
+                    </div><!-- .site-header-menu -->
+                    
+                </div><!-- .site-header-main -->
+            </header><!-- .site-header -->
+
+            <div id="content" class="site-content">
+
+                <div id="primary" class="content-area">
+                    <main id="main" class="site-main" role="main">
+                        <article class="post format-standard hentry single">
+
+    <header class="entry-header">
+                    <h2 class="entry-title"><a href="http://gracehouselongview.com/blog/post/hello-from-gracehouse">Hello From Gracehouse</a></h2>
+            </header><!-- .entry-header -->
+
+            
+    <div class="entry-content">
+        <div class="content">
+            <div class="clearfix text-formatted field field--name-body">
+                <div class="content">
+                                                                                <p>Hello Longview, This is our new blog!</p>
+                                    </div>
+            </div>
+        </div>
+    </div><!-- .entry-content -->
+
+    <footer class="entry-footer">
+        <span class="byline"><span class="author vcard"><a href="http://gracehouselongview.com/blog/author/easttexasautos"><img alt="easttexasautos" src="http://gracehouselongview.com/blog/themes/twentysixteen/img/avatar.png" class="avatar avatar-49 grav-hashed grav-hijack" height="49" width="49"></a><span class="screen-reader-text">Author </span> <a class="url fn n" href="http://gracehouselongview.com/blog/author/easttexasautos">easttexasautos</a></span></span>
+        <span class="posted-on"><span class="screen-reader-text">Posted on </span><a href="http://gracehouselongview.com/blog/post/hello-from-gracehouse" rel="bookmark"><time class="entry-date published">December 02, 2018</time></a></span>
+        <span class="cat-links"><span class="screen-reader-text">Category </span><a href="http://gracehouselongview.com/blog/category/uncategorized">Uncategorized</a></span>
+        <span class="tags-links"><span class="screen-reader-text">Tags </span><a rel="tag" href="http://gracehouselongview.com/blog/tag/hello">hello</a> <a rel="tag" href="http://gracehouselongview.com/blog/tag/gracehouse">gracehouse</a></span>
+                    <span class="comments-link"><a href="http://gracehouselongview.com/blog/post/hello-from-gracehouse#disqus_thread"> comments</a></span>
+                
+    </footer><!-- .entry-footer -->
+</article><!-- #post-## -->
+
+
+        <script type="text/javascript">
+        var disqus_shortname = 'gracehouselongview';
+        (function () {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>                    </main><!-- .site-main -->
+                </div><!-- .content-area -->
+
+
+                <aside id="secondary" class="sidebar widget-area" role="complementary">
+                    <section class="widget widget_text">
+                        <h2 class="widget-title">About</h2>
+                        <div class="textwidget"><p>Gracehouse Ministries news and views.</p>
+                        </div>
+                    </section>
+                    
+                    <section id="search" class="widget widget_search">
+                        <form role="search" class="search-form">
+                        <label>
+                            <span class="screen-reader-text">Search for:</span>
+                            <input type="search" class="search-field" placeholder="Search &hellip;" value="" name="search" title="Search for:" />
+                        </label>
+                        <button type="submit" class="search-submit"><span class="screen-reader-text">Search</span></button>
+                        </form>
+                    </section>    
+                    
+                    <section id="recent-posts" class="widget widget_recent_entries">        
+                        <h2 class="widget-title">Recent Posts</h2>
+                        <ul><li><a href="http://gracehouselongview.com/blog/post/hello-from-gracehouse">Hello From Gracehouse</a></li></ul>                    </section>
+                    
+                    
+                                        <section id="recent-comments" class="widget widget_recent_comments">
+                        <h2 class="widget-title">Recent Comments</h2>
+                        <script src="//gracehouselongview.disqus.com/recent_comments_widget.js?num_items=5&amp;hide_avatars=0&amp;avatar_size=48&amp;excerpt_length=200&amp;hide_mods=0" type="text/javascript"></script><style>li.dsq-widget-item {padding-top:15px;} img.dsq-widget-avatar {margin-right:5px;} .dsq-widget-list {margin-left:0;}</style>
+                    </section>
+                    
+                    <section id="archives" class="widget widget_archive">
+                    <h2 class="widget-title">Archives</h2>        
+                        <ul class="archivegroup"><li class="expanded"><a href="javascript:void(0)" class="toggle" onclick="                    if (this.parentNode.className.indexOf('expanded') > -1){this.parentNode.className = 'collapsed';this.innerHTML = '&#9658;';} else {this.parentNode.className = 'expanded';this.innerHTML = '&#9660;';}">&#9660;</a> <a href="http://gracehouselongview.com/blog/archive/2018">2018</a> <span class="count">(1)</span><ul class="month"><li class="item"><a href="http://gracehouselongview.com/blog/archive/2018-12">December</a> <span class="count">(1)</span></li></ul></li></ul>                    </section>
+                    
+                    <section id="category" class="widget widget_category">
+                    <h2 class="widget-title">Category</h2>        
+                        <ul><li><a href="http://gracehouselongview.com/blog/category/uncategorized">Uncategorized</a></li></ul>                    </section>
+                    
+                    <section id="popular-tags" class="widget widget_popular_tags">
+                    <h2 class="widget-title">Popular Tags</h2>
+                                                <ul>
+                                                    <li><a class="more-link" href="http://gracehouselongview.com/blog/tag/hello">hello (1)</a></li>
+                                                                            <li><a class="more-link" href="http://gracehouselongview.com/blog/tag/gracehouse">gracehouse (1)</a></li>
+                                                                        </ul>
+                    </section>
+                    
+                </aside><!-- .sidebar .widget-area -->
+
+            </div><!-- .site-content -->
+
+            <footer id="colophon" class="site-footer" role="contentinfo">
+                <nav class="main-navigation" role="navigation" aria-label="Footer Primary Menu">
+                    <div class="menu-main-container">
+                        <ul class="nav primary-menu"><li class="item first active"><a href="http://gracehouselongview.com/blog/">Home</a></li></ul>                    </div>
+                </nav><!-- .main-navigation -->
+                <nav aria-label="Footer Social Links Menu" role="navigation" class="social-navigation">
+                    <div class="menu-social-links-container">
+                    <ul class="social-links-menu" id="menu-social-links">
+                        <li><a href="https://twitter.com"><span class="screen-reader-text">Twitter</span></a></li>
+                        <li><a href="https://www.facebook.com"><span class="screen-reader-text">Facebook</span></a></li>
+                        <li><a href="https://plus.google.com"><span class="screen-reader-text">Google+</span></a></li>
+                        <li><a href=""><span class="screen-reader-text">GitHub</span></a></li>
+                    </ul>
+                    </div>                
+                </nav>
+                <div class="site-info">
+                    <span class="site-title"><a href="http://gracehouselongview.com/blog/" rel="home">Gracehouse Longview</a></span>
+                    <span class="copyright"><p>&copy; 2019 &mdash; Gracehouse Longview</p><p>Proudly powered by <a href="http://www.htmly.com" target="_blank">HTMLy</a></p></span>
+                </div><!-- .site-info -->
+            </footer><!-- .site-footer -->
+        </div><!-- .site-inner -->
+    </div><!-- .site -->
+
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="http://gracehouselongview.com/blog/themes/twentysixteen/js/html5.js"></script>
+    <![endif]-->
+    <script type="text/javascript" src="http://gracehouselongview.com/blog/themes/twentysixteen/js/jquery.js"></script>
+    <script type="text/javascript" src="http://gracehouselongview.com/blog/themes/twentysixteen/js/jquery-migrate.js"></script>
+    <script type="text/javascript" src="http://gracehouselongview.com/blog/themes/twentysixteen/js/skip-link-focus-fix.js"></script>
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="http://gracehouselongview.com/blog/themes/twentysixteen/js/functions.js"></script>
+    </body>
+</html>
