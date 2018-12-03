@@ -1842,7 +1842,7 @@ function social($imgDir = null)
 function copyright()
 {
     $blogcp = blog_copyright();
-    $credit = 'Proudly powered by <a href="http://www.htmly.com" target="_blank">HTMLy</a>';
+    $credit = 'Proudly powered by <a href="http://www.RkVideo.tv" target="_blank">RKVideo</a>';
 
     if (!empty($blogcp)) {
         return $copyright = '<p>' . $blogcp . '</p><p>' . $credit . '</p>';
