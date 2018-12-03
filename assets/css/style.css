@@ -63,12 +63,12 @@ h1,h2,h3,h4,h5,h6,
 
 .dropdown-icon {
   width: 32px;
-  border: none;
+  border: .05rem solid transparent;
   outline: none;
 }
 
 .dropdown-icon:hover {
-  border: none;
+  border: .05rem solid transparent;
   outline: none;
 }
 
@@ -109,7 +109,7 @@ h1,h2,h3,h4,h5,h6,
 
 .bar-menu a:hover,
 .bar-menu-mobile a:hover {
-  border: none;
+  border: .05rem solid transparent;
 }
 
 .bar-menu-mobile .btn:focus,
@@ -295,7 +295,7 @@ h1,h2,h3,h4,h5,h6,
 }
 
 .btn-link:hover {
-  border: none;
+  border: .05rem solid transparent;
 }
 
 .header-donate {
