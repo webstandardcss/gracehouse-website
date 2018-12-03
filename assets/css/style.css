@@ -91,7 +91,7 @@ h1,h2,h3,h4,h5,h6,
 .bar-menu-mobile a, .bar-menu-mobile li, .bar-menu-mobile .dropdown, .bar-menu-mobile .flex-centered  {
   display: block;
 }
-
+.bar-menu-mobile button,
 .bar-menu-mobile a {
   font-size: 1.5rem;
 }
@@ -102,7 +102,8 @@ h1,h2,h3,h4,h5,h6,
 
 
 .bar-menu-mobile .btn-link:hover,
-.bar-menu-mobile a:hover {
+.bar-menu-mobile a:hover,
+.bar-menu-mobile button:hover {
   color: #e08c20;
 }
 
