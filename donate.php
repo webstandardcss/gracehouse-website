@@ -29,7 +29,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     Grace House of Longview is a tax exempt, non-profit 501(c) (3) corporation that seeks to provide this ministry to young women in crisis, at no cost to the individual. Grace House accepts no state or federal funding and relies solely upon individuals, businesses and churches to support this community ministry. Most women will come direct from jail and have nothing. It is the desire of Grace House to house, clothe and feed them while teaching them that God provides a better way.
                 </p>
 
-                <h3><a href="#donatepage">CLICK TO MAKE A DONATION</a></h3>
+                <h3><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QE2EKPCFFYDA8&source=url">CLICK TO MAKE A DONATION</a></h3>
 
                 <p>
                     Donations may also be mailed to:
