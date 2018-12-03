@@ -11,6 +11,7 @@ $siteGoogleURL = "https://plus.google.com/1111111";
 $siteHost = "http://" . $_SERVER['HTTP_HOST'];
 $pageURL = $siteHost . $_SERVER['REQUEST_URI'];
 $pageImage = $siteHost . "/assets/images/logo-outline.png";
+$extraCss = array();
 $lastModified = @filemtime($pageURL);
 if($lastModified == NULL)
     // $lastModified = filemtime(utf8_decode($pageURL));$lastModified = filemtime(utf8_decode($pageURL));
