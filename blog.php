@@ -12,7 +12,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <style scoped>
 .iframe-blog {
-  height: 60vh;
+  height: 81vh;
 }
 </style>
 
