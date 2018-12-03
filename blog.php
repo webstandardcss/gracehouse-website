@@ -12,7 +12,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <style scoped>
 .iframe-blog {
-  height: 60vw;
+  height: 60vh;
 }
 </style>
 
@@ -28,8 +28,8 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-12 col-mx-auto">
-                <h2 class="text-center">Blog</h2>
+            <div class="column col-10 col-sm-12 col-mx-auto">
+                <h2 class="text-center"><a href="/blog.php">Blog</a></h2>
                 <iframe class="iframe-blog" width="100%" src="//gracehouselongview.com/blog/" frameborder="0"></iframe>
             </div>
         </div> 
