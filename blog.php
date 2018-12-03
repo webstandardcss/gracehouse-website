@@ -10,6 +10,12 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
 <?php require_once dirname(__FILE__) . "/inc/header.php"; ?>
 
+<style scoped>
+.iframe-blog {
+  height: 60vw;
+}
+</style>
+
     <!-- blank.php -->
     <div class="home-banner flex-centered">
         <div class="home-banner-inner">
@@ -22,9 +28,9 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-8 col-md-12 col-mx-auto">
+            <div class="column col-12 col-mx-auto">
                 <h2 class="text-center">Blog</h2>
-                <iframe width="100%" src="//gracehouselongview.com/blog/" frameborder="0"></iframe>
+                <iframe class="iframe-blog" width="100%" src="//gracehouselongview.com/blog/" frameborder="0"></iframe>
             </div>
         </div> 
         <!-- end columns -->
