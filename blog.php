@@ -24,7 +24,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <div class="columns">
             <div class="column col-8 col-md-12 col-mx-auto">
                 <h2 class="text-center">Blog</h2>
-                <iframe src="blog/" frameborder="0"></iframe>
+                <iframe width="100%" src="//gracehouselongview.com/blog/" frameborder="0"></iframe>
             </div>
         </div> 
         <!-- end columns -->
