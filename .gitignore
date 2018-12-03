@@ -6,7 +6,9 @@
 error_log
 .ftpquota
 blog/config/users/*
-blog/cache/*/**
+blog/cache/widget/**
+blog/cache/page/**
+blog/cache/index/**
 bfg.jar
 
 ### Linux ###
