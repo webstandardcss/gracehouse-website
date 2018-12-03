@@ -24,9 +24,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <div class="columns">
             <div class="column col-8 col-md-12 col-mx-auto">
                 <h2 class="text-center">Blog</h2>
-                <p>
-                    Coming Soon
-                </p>
+                <iframe src="blog/" frameborder="0"></iframe>
             </div>
         </div> 
         <!-- end columns -->
