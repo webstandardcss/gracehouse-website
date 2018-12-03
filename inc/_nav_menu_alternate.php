@@ -1,63 +1,8 @@
 
-                <div class="dropdown menu-about cushycms-text">
-                    <button class="btn btn-link dropdown-toggle">About Us</button>
-                    <?php require(dirname(__FILE__) . "/_nav_menu_about.php"); ?>
-                </div>
-                <div class="dropdown menu-our-program">
-                    <button class="btn btn-link dropdown-toggle">Our Program</button>
-                    <?php require(dirname(__FILE__) . "/_nav_menu_program.php"); ?>
-                </div>
-                <div class="dropdown menu-get-involved">
-                    <button class="btn btn-link dropdown-toggle">Get Involved</button>
-                    <?php require(dirname(__FILE__) . "/_nav_menu_involved.php"); ?>
-                </div>
-
-                <a href="/application.php" class="btn btn-link" tabindex="3">
-                    Application for Residency                
-                    <i class="icon icon-people text-gray ml-2"></i>
-                </a>
-                <a href="/contact.php" class="btn btn-link" tabindex="0">
-                    Contact Us                
-                    <i class="icon icon-mail text-gray ml-2"></i>
-                </a>
-                <a href="/blog.php" class="btn btn-link" tabindex="4">
-                    Blog                
-                    <i class="icon icon-time text-gray ml-2"></i>
-                </a>
-
-                <div class="dropdown d-none menu-example">
-                    <a href="#" class="btn btn-link dropdown-toggle dropdown-icon" tabindex="5">
-                        dropdown menu <i class="icon icon-caret"></i>
-                    </a>
-
-                    <!-- menu component -->
-                    <ul class="menu">
-                        <!-- menu header text -->
-                        <li class="divider" data-content="LINKS">
-                        </li>
-                        <!-- menu item standard -->
-                        <li class="menu-item">
-                            <a href="#">
-                            <i class="icon icon-link"></i> Slack
-                            </a>
-                        </li>
-                        <!-- menu item with form control -->
-                        <li class="menu-item">
-                            <label class="form-checkbox">
-                            <input type="checkbox">
-                            <i class="form-icon"></i> form-checkbox
-                            </label>
-                        </li>
-                        <!-- menu divider -->
-                        <li class="divider"></li>
-                        <!-- menu item with badge -->
-                        <li class="menu-item">
-                            <div class="menu-badge">
-                            <label class="label label-primary">2</label>
-                            </div>
-                            <a href="#">
-                            <i class="icon icon-link"></i> Settings
-                            </a>
-                        </li>
-                    </ul>
-                </div>    
+<a href="/our-story.php" class="btn btn-link" tabindex="0">Our Story</a>
+<a href="/our-mission.php" class="btn btn-link" tabindex="1">Mission</a>
+<a href="/our-program.php" class="btn btn-link" tabindex="2">Our Program</a>
+<a href="/volunteer.php" class="btn btn-link" tabindex="3">Volunteer</a>
+<a href="/donate.php" class="btn btn-link" tabindex="4">Donate</a>
+<a href="/application.php" class="btn btn-link" tabindex="5">Application</a>
+<a href="/contact.php" class="btn btn-link" tabindex="6">Contact Us</a>
