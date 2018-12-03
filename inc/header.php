@@ -33,7 +33,6 @@
             </div>
             <div class="column col-12 flex-centered">
                 <a href="/index.php"><img src="/assets/images/logo-outline.png" class="logo-header" alt="Grace House"></a>
-                <a href="/donate.php" class="btn btn-alternate header-donate d-none">Donate</button>
             </div>
         </div>
     </div>
