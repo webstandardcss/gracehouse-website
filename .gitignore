@@ -6,6 +6,7 @@
 error_log
 .ftpquota
 blog/config/users/*
+blog/backup/**
 blog/cache/widget/**
 blog/cache/page/**
 blog/cache/index/**
