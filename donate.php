@@ -29,9 +29,16 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     Grace House of Longview is a tax exempt, non-profit 501(c) (3) corporation that seeks to provide this ministry to young women in crisis, at no cost to the individual. Grace House accepts no state or federal funding and relies solely upon individuals, businesses and churches to support this community ministry. Most women will come direct from jail and have nothing. It is the desire of Grace House to house, clothe and feed them while teaching them that God provides a better way.
                 </p>
 
-                <h3><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QE2EKPCFFYDA8&source=url">CLICK TO MAKE A DONATION</a></h3>
-
-                <p>
+                <div class="p-centered" style="max-width:320px; margin: 48px auto">
+                  <h4><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=QE2EKPCFFYDA8&source=url">MAKE A DONATION</a></h4>
+                  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+                  <input type="hidden" name="cmd" value="_s-xclick" />
+                  <input type="hidden" name="hosted_button_id" value="QE2EKPCFFYDA8" />
+                  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+                  <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+                  </form>
+                  <br />
+                  <p>
                     Donations may also be mailed to:
                     <div>
                       Grace House of Longview
@@ -39,6 +46,10 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     <address>P.O. Box 761<br />
                     Longview, TX 75606</address>
                 </p>
+
+                </div>
+
+
             </div>
             <div class="column col-4 col-md-12">
                 <?php require(dirname(__FILE__) . "/inc/_nav_menu_involved.php"); ?>
