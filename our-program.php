@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
 
     <div class="container bar-content p-centered page-width">    
         <div class="columns">
-            <div class="column col-10 col-md-12">
+            <div class="column col-10 col-md-12 col-mx-auto">
             <h2 class="text-center">OUR PROGRAM</h2>
 
             <p>
@@ -58,6 +58,6 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
         <!-- end columns -->
     </div>
     <!-- end content -->  
-    
+</div>
 
 <?php require_once dirname(__FILE__) . "/inc/footer.php"; ?>
