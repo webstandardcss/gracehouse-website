@@ -22,7 +22,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 </div>
             </div>
             <div class="column col-4 col-md-12 grace-menu grace-apply flex-centered">
-                <a href="apply.php" class="btn s-rounded" tabindex="6">
+                <a href="application.php" class="btn s-rounded" tabindex="6">
                     Apply               
                     <i class="icon icon-mail text-white ml-2"></i>
                 </a>
@@ -51,53 +51,15 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                 <p>Applicants must submit an application, and be interviewed and evaluated to determine their desire and potential for participating in the Grace House program. The ministry’s objective is to educate, encourage and care for selected women until they are prepared to re-enter everyday life in a productive and confident manner.</p>
                 <button class="btn p-centered mb-2 text-bold s-rounded">LEARN MORE</button>
             </div>
-            <div class="column col-6 hide-md flex-centered">
-                <img src="/assets/images/grace-about.jpg" alt="About Us" class="img-fit-contain">
-            </div>
+            
         </div> 
         <!-- end columns -->
         <div class="flex-centered p-24">
-            <img src="/assets/images/video-placeholder.png" alt="Grace House Video">
+            <img src="/assets/images/video-placeholder2.png" alt="Grace House Video">
         </div>
-        <h3 class="text-center">Recent Blogs and Updates</h3>
-        <div class="columns grace-blog mb-2">
-            <div class="column col-4 col-md-12 bg-gray">
-                <div class="card">
-                    <div class="card-image"><img class="img-responsive img-fit-cover" src="/assets/images/blog-1-sm.jpg" alt="Ina"></div>
-                    <div class="card-header">
-                        <button class="btn btn-primary float-right"><i class="icon icon-more-horiz"></i></button>
-                        <div class="card-title h5">State Representative, Ina Minajarez, visits Grace House</div>
-                        <div class="card-subtitle text-gray">August 25, 2018</div>
-                    </div>
-                    <div class="card-body">An immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.</div>
-                </div>
-            </div>
-            <div class="column col-4 col-md-12 bg-gray">
-                <div class="card">
-                    <div class="card-image"><img class="img-responsive img-fit-cover" src="/assets/images/blog-2-maria.jpg" alt="Maria"></div>
-                    <div class="card-header">
-                        <button class="btn btn-primary float-right"><i class="icon icon-more-horiz"></i></button>
-                        <div class="card-title h5">Maria's Testimony</div>
-                        <div class="card-subtitle text-gray">August 2, 2018</div>
-                    </div>
-                    <div class="card-body">An immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.</div>
-                </div>
-            </div>
-            <div class="column col-4 col-md-12 bg-gray">
-                <div class="card">
-                    <div class="card-image"><img class="img-responsive img-fit-contain" src="/assets/images/blog-3-sm.jpg" alt="Panida"></div>
-                    <div class="card-header">
-                        <button class="btn btn-primary float-right"><i class="icon icon-more-horiz"></i></button>
-                        <div class="card-title h5">Panida's Testimony</div>
-                        <div class="card-subtitle text-gray">July 5, 2018</div>
-                    </div>
-                    <div class="card-body">An immersive, three-day experience focused on exploring the next generation of technology, mobile and beyond.</div>
-                </div>
-            </div>
-        </div>
+        
         <!-- end columns -->                        
-        <button class="btn p-centered mb-2 text-bold s-rounded">VIEW ALL POSTS</button><br />
-    </div>
+       </div>
     <!-- end content -->  
     
 

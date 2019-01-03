@@ -43,14 +43,15 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     Women who would assist in driving residents to church functions, court appointments, volunteering events and classes.
                 </p>
 
-                <blockquote>Contact
-                <a href="mailto:Darrell@gracehouselongview.com">Darrell</a> to volunteer or call 
-                <a href="tel:+19037464145">(903)&nbsp;746-4145</a></blockquote>
+                <blockquote>Contact Cherie Smith to volunteer or call 
+                <a href="tel:+19037460632">(903)&nbsp;746-0632</a></blockquote> or email us at: <a herf="mailto:gracehouselongview@yahoo.com">Gracehouselongview@yahoo.com</a>
             </div>
             <div class="column col-4 col-md-12">
                 <?php require(dirname(__FILE__) . "/inc/_nav_menu_involved.php"); ?>
             </div>
+            <p>&nbsp;</p>
         </div> 
+        
         <!-- end columns -->
     </div>
     <!-- end content -->  

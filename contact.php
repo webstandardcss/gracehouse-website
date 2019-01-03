@@ -30,7 +30,7 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     Darrell Smith
                     </dt>
                     <dd>
-                    <a href="mailto:Darrell@gracehouselongview.com">Darrell@gracehouselongview.com</a>
+                    <a href="mailto:Darrell@gracehouselongview.com">Darrell@gracehouselongview.com</a> &nbsp; - &nbsp;
                     <a href="tel:+19037464145">(903)&nbsp;746-4145</a>
                     </dd>
 
@@ -38,16 +38,17 @@ $pageKeywords = $pageTitle . "  " . $siteKeywords;
                     Cherie Smith
                     </dt>
                     <dd>
-                    <a href="mailto:Cherie@gracehouselongview.com">Cherie@gracehouselongview.com</a>
+                    <a href="mailto:Cherie@gracehouselongview.com">Cherie@gracehouselongview.com</a>&nbsp; - &nbsp;
                     <a href="tel:+19037460632">(903)&nbsp;746-0632</a>
                     </dd>
 
 
                     <dt>
-                    Ashley Smith
+                    Debbie Burns
                     </dt>
                     <dd>
-                    <a href="mailto:Ashley@gracehouselongview.com">Ashley@gracehouselongview.com</a>
+                    <a href="mailto:debbie@gracehouselongview.com">Debbie@gracehouselongview.com</a>&nbsp; - &nbsp;
+                    <a href="tel:+19033150151">(903)&nbsp;315-0151</a>
                     </dd>
                 </dl>
             </div>
